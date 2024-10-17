@@ -30,5 +30,4 @@ Este projeto permite que o usuário faça upload de duas imagens através de uma
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/AdrianoFerreiraOliveira/comparando-imagens.git
